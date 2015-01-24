@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A bunch of friends writing a blog about whatever they feel like.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_usernanme: qtxctwit
+twitter_username: qtxctwit
 github_username:  qtxc
 
 # Build settings
